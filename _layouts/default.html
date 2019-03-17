@@ -5,22 +5,21 @@
     <link rel="stylesheet" type="text/css" href="/css/main.css">
   </head>
   <body>
-    <nav>
-      <ul>
-        <li><a href="/">Home</a></li>
-        <li><a href="/about">About</a></li>
-      </ul>
-    </nav>
-    <div class="container">
-
-      {{ content }}
-      
+    <div>
+      <div class="menu">
+        <ul>
+          <li class="main">Abhi Sharma</li>
+          <li><a href="/about">about</a></li>
+          <li><a href="/bookreviews">tl;dr books</a></li>
+          <li><a href="/blog">blog</a></li>
+          <li><a href="/bookshelf">bookshelf</a></li>
+          <li><a href="/thoughts">thoughts/annum</a></li>
+          <li><a href="/manifesto">manifesto</a></li>
+        </ul>
+      </div>
+      <div class="container">
+        {{ content }}      
+      </div>
     </div>
-    <footer>  
-      <ul>
-        <li><a href="mailto:abhisharma.b@gmail.com">abhisharma dot b at gmail dot com</a></li>
-        <li><a href="https://github.com/hankquinlan">github.com/hankquinlan</a></li>
-      </ul>
-    </footer>
   </body>
 </html>
