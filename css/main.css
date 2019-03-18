@@ -27,6 +27,10 @@ footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
 ul.posts { font-size: 1em; }
 ul.posts li { list-style: none; }
 
+
+/* Background Text on Main Page */ 
+.bgtext { color: #f9f8f7; font-size: 3em; font-family: 'Sans-Serif'; }
+
 /* CV */
 .cv { margin: 0px 0px 60px; }
 .cv h1 { font-size: 3em; }
