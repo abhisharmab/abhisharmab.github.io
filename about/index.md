@@ -10,7 +10,7 @@ I live in [San Francisco](https://en.wikipedia.org/wiki/San_Francisco) and work 
 
 Email: [abhisharma.b@gmail.com](mailto:abhisharma.b@gmail.com)
 
-GitHub: [abhishekbsharma](https://github.com/abhishekbsharma)
+GitHub: [abhisharmab](https://github.com/abhisharmab)
 
 Twitter: [abhisharma_b](https://twitter.com/abhisharma_b)
 
