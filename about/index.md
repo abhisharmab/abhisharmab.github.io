@@ -5,7 +5,7 @@ title: About
 
 ![](/assets/abhi.png)
 
-I live in [Mountain View](https://en.wikipedia.org/wiki/Mountain_View,_California) and work at [FogHorn](https://www.foghorn.io/). I was born in Northern India (close to the Himalayas) and studied CS and ML at Carnegie Mellon University, Pittsburgh (CMU). Currently obessed with how the brain works.
+I live in [Mountain View](https://en.wikipedia.org/wiki/Mountain_View,_California) and work at [FogHorn](https://www.foghorn.io/). I was born in Northern India (close to the Himalayan range). Previously studied Computer Science and Machine Learning at Carnegie Mellon University, Pittsburgh (CMU). Currently obessed with how the brain and the world works.
 
 
 Email: [abhisharma.b@gmail.com](mailto:abhisharma.b@gmail.com)
