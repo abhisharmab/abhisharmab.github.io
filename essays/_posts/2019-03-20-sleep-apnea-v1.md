@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Sleep Apnea and how CPAP changed my life"
+title: "Sleep apnea and how CPAP changed my life"
+category: essay
 date: 2014-03-19
 abstract: Acknowledging and addressing sleep apnea.
 ---
