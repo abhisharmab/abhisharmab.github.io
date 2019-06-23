@@ -2,7 +2,7 @@
 layout: post
 title: "Launching personal website"
 category: essay
-date: 2014-03-17
+date: 2019-03-17
 abstract: Test post for my personal website using GitHub Pages.
 ---
 
