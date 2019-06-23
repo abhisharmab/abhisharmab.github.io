@@ -16,10 +16,10 @@ There are way too many useful nuggets to summarize but, personally, if I had a g
 I am sure you can Google some sort of formal definition. To me it is a balancing act to make sure all the working pieces and people believe in, line up, and point in the same direction. Meaning people are actually correctly incentivized to head towards a common goal.
 
 ##### Why is it so important?
-It is really important, because I think it helps: 
-* setup the right rewards structures to motivate people, 
-* inculcates a sense of urgency for progress,
-* reduces tolerance to complacency, 
+It helps: 
+* setup the right rewards structures for everyone, 
+* inculcates a sense of urgency for progress and motivation,
+* reduces tolerance towards complacency, 
 * establishes checks & balances in decision making, 
 * always helps the keep the long-term view in mind (very underrated).
 
