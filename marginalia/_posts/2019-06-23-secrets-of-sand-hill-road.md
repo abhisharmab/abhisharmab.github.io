@@ -17,14 +17,14 @@ I am sure you can Google some sort of formal definition. To me it is a balancing
 
 ##### Why is it so important?
 It helps: 
-* setup the right rewards structures for everyone, 
-* inculcates a sense of urgency for progress and motivation,
-* reduces tolerance towards complacency, 
-* establishes checks & balances in decision making, 
-* always helps the keep the long-term view in mind (very underrated).
+1.setup the right rewards structures for everyone,  
+2.inculcates a sense of urgency for progress and motivation,  
+3.reduces tolerance towards complacency,   
+4.establishes checks & balances in decision making,  
+5.always helps the keep the long-term view in mind (very underrated).  
 
-##### Margin notes
-In no particular order, notes from my margins: 
-* 
+Finally, in no particular order, below are some important notes from my book margins:
+
+
 
 Lastly, even if you are mildly curious as to why Silicon Valley seems to only talk in bizarre millions and billions of dollars (funding or exits), you should read it.
