@@ -6,13 +6,13 @@ a:hover { text-decoration: underline; }
 p { font-size: 0.8em; line-height: 1.5em; color: #333; font-family: 'Helvetica'; }
 p.abstract { font-size: 0.9em; color: grey; font-style: italic;}
 
-h1, h2, h3, h4 { font-family: 'Sans-Serif'; }
+h1, h2, h3, h4 { font-family: 'Helvetica'; }
 h1 { font-size: 1.9em;  }
 h2 { font-size: 1.6em; }
 h3 { font-size: 1.3em; }
 h4 { font-size: 1.1em; }
 
-.menu ul { font-size: 0.9em; font-family: 'Sans-Serif'; padding: 0px; list-style: none; text-align: right; float: right;}
+.menu ul { font-size: 0.9em; font-family: 'Helvetica'; padding: 0px; list-style: none; text-align: right; float: right;}
 .menu ul li { display: list-item; margin-right: 20px; margin-bottom: 5px; }
 
 .menu .main { font-size: 1.2em; }
@@ -24,17 +24,17 @@ h4 { font-size: 1.1em; }
 footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
 
 /* Blog */
-ul.posts { font-size: 1em; }
+ul.posts { font-size: 0.8em; }
 ul.posts li { list-style: none; }
 
 
 /* Background Text on Main Page */ 
-.bgtext { color: #f9f8f7; font-size: 3em; font-family: 'Sans-Serif'; }
+.bgtext { color: #f9f8f7; font-size: 3em; font-family: 'Helvetica'; }
 
 /* CV */
 .cv { margin: 0px 0px 60px; }
 .cv h1 { font-size: 3em; }
 .cv h2 { font-size: 2em; }
-.cv address, .cv .download { font-family: 'Sans-Serif'; }
+.cv address, .cv .download { font-family: 'Helvetica'; }
 .cv address, .cv p { font-size: 1.2em; }
 .cv .download { float: right; font-size: .8em; text-transform: uppercase; }

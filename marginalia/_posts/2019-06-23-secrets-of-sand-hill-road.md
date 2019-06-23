@@ -7,7 +7,7 @@ abstract: Illuminating peek into venture captial & incentive alignment
 ---
 
 ##### The abstract
-As clickbait-y as the title of this book might seem, it is a must-read for anyone trying to bootstrap a startup. You will walk away with a deep understanding of VC workings and get actionable entrepreneurship advice. As a litmus test; I guarantee your pitch deck, how you approach VCs, which VCs you partner with, and how you evaluate your startup state - all of it will change slightly (for the better) after reading this book.
+As clickbait-y as the title of this book might seem, it is a must-read for anyone trying to bootstrap a startup. You will walk away with a deep understanding of VC and get actionable entrepreneurship advice. As a litmus test; I guarantee your pitch deck, how you approach VCs, which VCs you partner with, and how you evaluate your startup - all of it will change slightly (for the better) after reading this book.
 
 Having started a company before and then later bootstrapping [Foghorn](https://www.foghorn.io/) at an incubator, I was appalled at the information asymmetry that exists between LPs, VCs, and founders (especially technical founders). I learned it myself in hard ways. It made me feel furious, stupid, and even pity myself. But as with everything, you don't know what you don't know. In the long run, this disparity doesn't promote trust or incentive alignment. Possibly why I connected so strongly with Scott's book. The book is non-pretentious, from the heart, and is genuinely trying to eliminate the asymmetry mentioned above.
 
