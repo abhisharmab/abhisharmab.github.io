@@ -51,7 +51,7 @@ Actually, find out details about how your startup is going to be valued. Get a l
 
 Set clear expectations, agreements, and rules of engagement. With your co-founders, early employees, and your investors. Just like the rule of thumb for your product, keep this simple and clear. 
 
-Understand financially modeling 101. It will help you figure out how much money to raise, and at what valuation.  Also, help communicate projections. _I am still figuring out how actually to do this. Can't find many resources around this_. 
+Understand financial modeling 101. It will help you figure out how much money to raise, and at what valuation.  Also, help communicate projections. _I am still figuring out how actually to do this. Can't find many resources around this_. 
 
 Raise money based on clear milestones you would like to achieve, how you will de-risk at each stage, and what would it take for you to get there; always future looking. 
 
