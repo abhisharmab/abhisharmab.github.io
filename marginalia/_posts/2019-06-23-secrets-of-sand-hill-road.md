@@ -31,7 +31,7 @@ Concepts and ideas in the book are conveyed with an example or story first style
 
 Chapters towards the end lose that example-based style of writing a little bit so unless you need the information right now you might find it hard to absorb it all. You can almost use it as a reference later.
 
-##### Margin notes
+##### Margin Notes
 
 Venture capital is a game of outliers and power law distribution. So as an entrepreneur, it's your job to communicate why you fall on the left of the curve and why now. You have to be able to demonstrate a long term vision.
 
