@@ -6,7 +6,7 @@ date: 2019-06-23
 abstract: Illuminating peek into venture captial & incentive alignment
 ---
 
-As clickbait-y as the title of this book might seem, it is a must-read for anyone trying to bootstrap a startup. You will walk away with a deep understanding of VC and get actionable entrepreneurship advice. As a litmus test; I guarantee your pitch deck, how you approach VCs, which VCs you partner with, how you evaluate your startup and your term sheets - all of it will change slightly (for the better) after reading this book.
+As clickbait-y as the title of this book might seem, it is a must-read for anyone trying to bootstrap a startup. You will walk away with a deep understanding of VC and get actionable entrepreneurship advice. As a litmus test; I guarantee your pitch deck, how you approach VCs, which VCs you partner with, how you evaluate your startup and your term sheets - all of it will change slightly (for the better) after reading [this book](https://www.amazon.com/Secrets-Sand-Hill-Road-Venture/dp/059308358X).
 
 Having started a company before and then later bootstrapping [Foghorn](https://www.foghorn.io/) at an incubator, I was appalled at the information asymmetry that exists between LPs, VCs, and founders (primarily technical founders). I learned it myself in hard ways. It made me feel furious, stupid, and even pity myself. However, as with everything, you don't know what you don't know. In the long run, this disparity doesn't promote trust or incentive alignment. Possibly why I connected so strongly with Scott's book. The book is non-pretentious, from the heart, and is genuinely trying to eliminate the asymmetry mentioned above.
 
@@ -23,7 +23,7 @@ Because it helps:
 2.inculcates a sense of urgency for progress and motivation,  
 3.reduces tolerance towards complacency,   
 4.establishes checks & balances in decision making,  
-5.always helps the keep the long-term view in mind (very underrated).  
+5.always helps to keep the long-term view in mind (very underrated).  
 
 You can rarely build an outlier success single-handedly. No matter how smart you are. Many processes, people, market dynamics, and a good bit of luck have to come together for that to happen. One critical dimension in all that (at least as of today) is VC. So it's vital you embrace it, understand it, and truly make sure it lines up with your core intent. The guidance in the book helps you hash that out.
 
