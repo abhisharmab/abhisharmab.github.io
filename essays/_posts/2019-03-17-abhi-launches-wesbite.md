@@ -3,8 +3,9 @@ layout: post
 title: "Launching personal website"
 category: essay
 date: 2019-03-17
-abstract: Test post for my personal website using GitHub Pages.
+abstract: A test post for personal website.
 ---
 
-Well. Finally got around to putting a website together. 
-A sample page as a test.
+Well! Finally got around to putting a website together. 
+
+Hello World.
