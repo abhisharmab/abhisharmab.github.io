@@ -12,7 +12,7 @@ While doing any project: it's hard to focus on just the parts the offer the most
 
 Dishwasher usage is a great example of how the human brain learns by daily association. How strategically you set it up improve exponentially over time.
 
-It's super important to make easy-to-use tools for thought. It's an amazing general pattern for abstraction. All great tools abstract so much that the users don't even realize how much work is done underneath. This is true for all great products e.g. Google Search (Web), Stripe(Payments), Google Maps(Travel) etc. or even just an excellent book. Great interfaces hide inessential complexity and expose very high leverage actions and representations by Micheal Nielsen.
+It's super important to make easy-to-use tools for thought. It's an amazing general pattern for abstraction. All great tools abstract so much that the users don't even realize how much work is done underneath. This is true for all great products e.g. Google Search (Web), Stripe(Payments), Google Maps(Travel) etc. or even just an excellent book. Great interfaces hide inessential complexity and expose very high leverage actions and representations - Micheal Nielsen.
 
 [Art of Discovery](https://ecommons.cornell.edu/bitstream/handle/1813/83/Art_of_Discovery_Oliver2.pdf)
 
@@ -92,5 +92,8 @@ Managing and keeping a team motivated is hard. Keep a strong 1-on-1 cadence. Fol
 Evaluating decisions on outcomes prevents us from learning. We need to dive into a decision, cut it open and examine its parts - Farnam Street 
 
 If people don't go to universities in the future and the current slow shift in them not retaining the same kind of signaling power they used to; then do university endowments no longer continue to remain a viable LP resource for venture capital in the long run?
+
+Don't underestimate the value of [incentive alignment](https://abhisharmab.github.io/marginalia/2019/06/23/secrets-of-sand-hill-road.html).
+
 
 
