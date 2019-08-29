@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-![](/assets/abhi.png)
+![](/assets/abhi_150.png)
 
 I live in Silicon Valley and bootstrapped
 [FogHorn](https://www.foghorn.io/). I often do unusual things at [Unusual Ventures](https://unusual.vc/) and tweet as [abhisharma_b](https://twitter.com/abhisharma_b).
