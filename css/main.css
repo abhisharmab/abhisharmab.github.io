@@ -13,7 +13,7 @@ h3 { font-size: 1.3em; }
 h4 { font-size: 1.1em; }
 
 .menu ul { font-size: 0.8em; font-family: 'Helvetica'; padding: 0px; list-style: none; text-align: right; float: right;}
-.menu ul li { font-size: 0.8em; display: list-item; margin-right: 20px; margin-bottom: 5px; }
+.menu ul li { display: list-item; margin-right: 20px; margin-bottom: 5px; }
 
 .menu .main { font-size: 1.2em; }
 
@@ -25,7 +25,7 @@ footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
 
 /* Blog */
 ul.posts { font-size: 0.8em; color: #333; font-family: 'Helvetica'; }
-ul.posts li { font-size: 0.8em; list-style: none; color: #333; font-family: 'Helvetica';}
+ul.posts li { list-style: none; color: #333; font-family: 'Helvetica';}
 
 
 /* Background Text on Main Page */ 
