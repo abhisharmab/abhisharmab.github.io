@@ -32,3 +32,5 @@ _What I begin again, is my fight with myself. Moonlight skies you offer; so neve
 
 _A new me rises; blood orange breaking through clouds. My thoughts are still; my soul steady.
 Now, the dirt remains but only on my skin and my brow — my heart steers clear purified in your gold._
+
+![](/assets/kili_summit.png)
