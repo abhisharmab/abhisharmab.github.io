@@ -23,6 +23,9 @@ I felt a deep sense of rush and inspiration the moment I reached the summit. You
 **Poetry**:  
 Back at the hotel, the day after the hike, I was having an early breakfast alone. No one has woken up and for some reason I could sleep beyond 5 AM. There was I sipping my coffee and the whole experience hit me like a jolt of lightning. As if all those memories crystallized into a single throat drying, watery-eyed, and faint smiling experience. The following came out of me: 
 
+
+**The Summit**  
+
 _It’s not the night that frightens but the darkness within I hold. So I look up to you; beaming white angel. But of-course I only look at a mirror; for with you there are no secrets yet to be told._
 
 _What I begin again, is my fight with myself. Moonlight skies you offer; so never again; I loose sight of my goal. You tingle my hands as I wiggle my toes. I now fear nothing; for I am back as a baby in my mother’s hold._
