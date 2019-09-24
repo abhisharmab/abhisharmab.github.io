@@ -27,7 +27,7 @@ Back at the hotel, the day after the hike, I had an early breakfast alone. No on
 
 **The Summit**  
 
-'_It's not the night that frightens but the darkness within I hold. So I look up to you; beaming white angel. But of-course I only look at a mirror; for with you there are no secrets yet to be told._
+_It's not the night that frightens but the darkness within I hold. So I look up to you; beaming white angel. But of-course I only look at a mirror; for with you there are no secrets yet to be told._
 
 _What I begin again, is my fight with myself. Moonlight skies you offer; so never again; I lose sight of my goal. You tingle my hands as I wiggle my toes. I now fear nothing; for I am back like a baby in my 'mother's hold._
 
