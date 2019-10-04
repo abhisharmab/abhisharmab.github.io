@@ -15,7 +15,7 @@ If you are a first-time technical founder — feeling ready to bootstrap, or rai
 Email: [abhisharma.b@gmail.com](mailto:abhisharma.b@gmail.com)
 
 Other Channels:
-[GitHub](https://github.com/abhisharmab) | [LinkedIn](https://www.linkedin.com/in/abhishekbaburamsharma/)
+[GitHub](https://github.com/abhisharmab) | [LinkedIn](https://www.linkedin.com/in/abhishekbaburamsharma/) | [Medium](https://medium.com/@abhisharma.b)
 
 
 
