@@ -5,8 +5,7 @@ title: About
 
 ![](/assets/abhi_150.png)
 
-I live in Silicon Valley and bootstrapped
-[FogHorn](https://www.foghorn.io/). I am also a tech advisor at [Unusual Ventures](https://unusual.vc/abhi-sharma) and tweet as [abhisharma_b](https://twitter.com/abhisharma_b).
+I live in Silicon Valley, and bootstrapped an IIoT startup - [FogHorn](https://www.foghorn.io/). I am also a tech advisor at [Unusual Ventures](https://unusual.vc/abhi-sharma) and tweet as [abhisharma_b](https://twitter.com/abhisharma_b).
 
 I was born in Northern India (close to the Himalayan range). Previously studied Computer Science and Machine Learning at Carnegie Mellon University (CMU), Pittsburgh. Obessed with the workings of wine, human intelligence, and incentives. If you have something interesting to say, I am very happy to meetupand listen.
 
