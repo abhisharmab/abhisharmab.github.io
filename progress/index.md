@@ -11,8 +11,11 @@ More specifically, one thought that bothered me the most was that we are becomin
 
 We have started a progress studies group in San Francisco, and if you are interested, please [let me know](mailto:abhisharma.b@gmail.com).
 
-Below is my collection of some resources around progress studies. 
+Below is my collection of some resources around progress studies.  
 
-* [Hyper-Specialization & Progress | Hacking Progress -- Abhi Sharma](https://youtu.be/6ZiQQ6Lalm0)
+
+* [Hyper-Specialization & Progress, Hacking Progress -- Abhi Sharma](https://youtu.be/6ZiQQ6Lalm0)
+
 * [Progress Studies Collection -- Patrick Collison](https://patrickcollison.com/progress)
+
 * [Root of Progress -- Jason Crawford](https://rootsofprogress.org/)
