@@ -20,4 +20,4 @@ Interesting collection of some resources about Progress:
 
 * [Our World in Data](https://twitter.com/OurWorldInData)
 
-* 
+ 
