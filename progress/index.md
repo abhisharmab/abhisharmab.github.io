@@ -13,7 +13,7 @@ Interesting collection of some resources about regular discuss progress:
 
 
 * [Specialization in Society & Progress, Hacking Progress -- Abhi Sharma](https://youtu.be/6ZiQQ6Lalm0)  
-The research material I collected and read for this talk can be found [here](https://drive.google.com/drive/folders/1WZwM5VNmpnvSqbjqf43dQcKtw_0RC0ds)
+The material I researched this talk can be found [here](https://drive.google.com/drive/folders/1WZwM5VNmpnvSqbjqf43dQcKtw_0RC0ds)
 
 * [Progress Studies Collection -- Patrick Collison](https://patrickcollison.com/progress)
 
