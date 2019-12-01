@@ -12,7 +12,7 @@ We have started a progress studies group in San Francisco (virtually across the 
 Interesting collection of some resources about regular discuss progress:  
 
 
-* [Hyper-Specialization in Society & Progress, Hacking Progress -- Abhi Sharma](https://youtu.be/6ZiQQ6Lalm0)  
+* [Specialization in Society & Progress, Hacking Progress -- Abhi Sharma](https://youtu.be/6ZiQQ6Lalm0)  
 The research material I collected and read for this talk can be found [here](https://drive.google.com/drive/folders/1WZwM5VNmpnvSqbjqf43dQcKtw_0RC0ds)
 
 * [Progress Studies Collection -- Patrick Collison](https://patrickcollison.com/progress)
@@ -23,6 +23,6 @@ The research material I collected and read for this talk can be found [here](htt
 
 * [Marginal Revolution -- Tyler Cowen & Alex Tabarrok](https://marginalrevolution.com/) 
 
-* [Why Innovation Accelerated in Britain 1547-1851 by Anton Howes](https://www.antonhowes.com/)
+* [Why Innovation Accelerated in Britain 1547-1851 -- Anton Howes](https://www.antonhowes.com/)
 
  
