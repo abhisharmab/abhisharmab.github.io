@@ -12,8 +12,8 @@ We have started a progress studies group in San Francisco (virtually across the 
 Interesting collection of some resources about Progress:  
 
 
-* [Hyper-Specialization & Progress, Hacking Progress -- Abhi Sharma](https://youtu.be/6ZiQQ6Lalm0)
-	* The research material I collected and read for this talk can be found [here](https://drive.google.com/drive/folders/1WZwM5VNmpnvSqbjqf43dQcKtw_0RC0ds)
+* [Hyper-Specialization & Progress, Hacking Progress -- Abhi Sharma](https://youtu.be/6ZiQQ6Lalm0)  
+The research material I collected and read for this talk can be found [here](https://drive.google.com/drive/folders/1WZwM5VNmpnvSqbjqf43dQcKtw_0RC0ds)
 
 * [Progress Studies Collection -- Patrick Collison](https://patrickcollison.com/progress)
 
