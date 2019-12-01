@@ -3,4 +3,4 @@ layout: default
 title: Manifesto
 ---
 
-## Dare to Deviate
+## Dare To Deviate
