@@ -5,7 +5,7 @@ title: Progress Studies
 
 For the past couple of years, I have been thinking deeply about the topic of progress. How do humans make frontier pushing progress? What can we do to enhance and optimize it?
  
-In July 2019, Tyler Cowen and Patrick Collison wrote a piece for the Atlantic entitled: We Need a New Science of Progress, which galvanized a big discussion around the world. It inspired me to think more deeply about this fire that had been already burning inside of me.
+In July 2019, Tyler Cowen and Patrick Collison wrote a piece for the Atlantic entitled: [We Need a New Science of Progress](https://www.theatlantic.com/science/archive/2019/07/we-need-new-science-progress/594946/), which galvanized a big discussion around the world. It inspired me to think more deeply about this fire that had been already burning inside of me.
 
 We have started a progress studies group in San Francisco (virtually across the world), and if you are interested, please [let me know](mailto:abhisharma.b@gmail.com).
 
