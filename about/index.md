@@ -12,7 +12,7 @@ Purpose: To Be Determined
 Twitter: [abhisharma_b](https://twitter.com/abhisharma_b)  
 Email: [abhisharma.b@gmail.com](mailto:abhisharma.b@gmail.com)
 
-I was born in Northern India (close to the Himalayan range). Previously studied Computer Science and Machine Learning at [Carnegie Mellon University (CMU)](https://www.cmu.edu/), Pittsburgh. Obessed with the workings of wine, human intelligence, progress, and incentives.
+I was born in Northern India (close to the Himalayan range). Studied Computer Science and Machine Learning at [Carnegie Mellon University (CMU)](https://www.cmu.edu/), Pittsburgh. Currently obessed with the workings of wine, human intelligence, progress studies, and incentives.
 
 If you are a first-time technical founder — feeling ready to bootstrap, or raise a seed round, or need technology or VC advice, or just want to bounce off ideas; feel free to reach out to me at [abhi@unusual.vc](mailto:abhi@unusual.vc).
 
