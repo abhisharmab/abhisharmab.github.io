@@ -5,7 +5,7 @@ title: About
 
 ![](/assets/abhi_150.png)
 
-Location: Silicon Valley  
+Location: Bay Area 
 Job: Founding Engineer / Head of Analytics & Machine Learning at [FogHorn](https://www.foghorn.io/)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Technologist in Residence at [Unusual Ventures](https://unusual.vc/abhi-sharma)  
 Purpose: To Be Determined    
