@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Launching personal website"
+title: "Test"
 category: essay
 date: 2019-03-17
 abstract: A test post for personal website.
