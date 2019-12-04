@@ -14,6 +14,8 @@ I believe augmenting human intellect and memory is an essential ingredient for m
 * [Quantum Country -- An Experiment in Mnemonic Medium](https://quantum.country/qcvc)  
 * [DynamicLand -- Communal Computing](https://dynamicland.org/)
 * [RoamResearch -- Notes for Networked Thought](https://roamresearch.com/)
+* [Iris -- Science Assitant](https://iris.ai/)
+* [Meta -- Research Search Assitant](https://www.meta.org/)
 
 #### Influencers: 
 
