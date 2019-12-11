@@ -19,7 +19,7 @@ I believe augmenting human intellect and memory is an essential ingredient for m
 
 #### Influencers: 
 
-#### Highly Quality Reads:
+#### Good Reads:
 * [Notetaking is underrated](https://twitter.com/michael_nielsen/status/1098098218565390337)
 * [How to make tools for thought](https://numinous.productions/ttft/)
 * [Cognitive Technologies](https://dominiccummings.com/2019/06/26/on-the-referendum-33-high-performance-government-cognitive-technologies-michael-nielsen-bret-victor-seeing-rooms/)
