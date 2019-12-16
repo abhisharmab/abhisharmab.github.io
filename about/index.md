@@ -14,10 +14,10 @@ title: About
 I was born in Northern India (close to the Himalayan range). Studied Computer Science and Machine Learning at [Carnegie Mellon University (CMU)](https://www.cmu.edu/), Pittsburgh. Always looking to understand more about wine, human intelligence, progress, and incentives.
 
 **Interest Areas and Expertise:**  
-1. Large Scale Distributed Systems, Cloud Infrastructure, & Edge Computing    
-2. Functional Programming, Compiler Design, & High-Performance Machine Learning (ML) Runtime   
-3. Intelligence Augmentation (IA) & Tools for Thought  
-4. Augmented Reality (AR) fo Cognitive Assistance  
+- Large Scale Distributed Systems, Cloud Infrastructure, & Edge Computing    
+- Functional Programming, Compiler Design, & High-Performance Machine Learning (ML) Runtime   
+- Intelligence Augmentation (IA) & Tools for Thought  
+- Augmented Reality (AR) fo Cognitive Assistance  
 
 If you are a first-time technical founder — feeling ready to bootstrap, or raise a seed round, or need technology or VC advice, or just want to bounce off ideas; feel free to [reach out](mailto:abhi@unusual.vc).
 
