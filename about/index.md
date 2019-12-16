@@ -14,7 +14,7 @@ Email: [abhisharma.b@gmail.com](mailto:abhisharma.b@gmail.com)
 
 I was born in Northern India (close to the Himalayan range). Studied Computer Science and Machine Learning at [Carnegie Mellon University (CMU)](https://www.cmu.edu/), Pittsburgh. Always looking to understand more about wine, human intelligence, progress, and incentives.
 
-Interest Areas and Expertise:
+**Interest Areas and Expertise:**  
 1.Large Scale Distributed Systems, Cloud Infrastructure, & Edge Computing    
 2.Functional Programming, Compiler Design, & High-Performance Machine Learning (ML) Runtime   
 3.Intelligence Augmentation (IA) & Tools for Thought  
