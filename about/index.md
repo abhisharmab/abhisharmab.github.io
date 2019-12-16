@@ -5,10 +5,10 @@ title: About
 
 ![](/assets/abhi_150.png)
 
-Location: Bay Area  
-Job: Founding Engineer / Head of Analytics & Machine Learning at [FogHorn](https://www.foghorn.io/)  
+![](/assets/loc.png) Bay Area  
+![](/assets/work.png) Founding Engineer / Head of Analytics & Machine Learning at [FogHorn](https://www.foghorn.io/)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Technologist in Residence at [Unusual Ventures](https://unusual.vc/abhi-sharma)  
-![](/assets/twtr1.png) [abhisharma_b](https://twitter.com/abhisharma_b)  
+![](/assets/twtr.png) [abhisharma_b](https://twitter.com/abhisharma_b)  
 ![](/assets/mail.png) [abhisharma.b@gmail.com](mailto:abhisharma.b@gmail.com)
 
 I was born in Northern India (close to the Himalayan range). Studied Computer Science and Machine Learning at [Carnegie Mellon University (CMU)](https://www.cmu.edu/), Pittsburgh. Always looking to understand more about wine, human intelligence, progress, and incentives.
