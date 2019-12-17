@@ -13,9 +13,9 @@ title: About
 
 I was born in Northern India (close to the Himalayan range). Studied Computer Science and Machine Learning at [Carnegie Mellon University (CMU)](https://www.cmu.edu/), Pittsburgh. Always looking to understand more about wine, human intelligence, [progress](https://youtu.be/6ZiQQ6Lalm0), and incentives.
 
-**Interest Areas and Expertise:**  
+**Tech Interests & Expertise:**  
 1.Large Scale Distributed Systems, Cloud Infrastructure, & Edge Computing    
-2.Functional Programming, Compiler Design, & Machine Learning (ML) Runtimes    
+2.Functional Programming, Compiler Design, & ML Runtimes    
 3.Intelligence Augmentation (IA) & Tools for Thought  
 4.Augmented Reality (AR) fo Cognitive Assistance  
 
