@@ -15,7 +15,7 @@ I was born in Northern India (close to the Himalayan range). Studied Computer Sc
 
 **Interest Areas and Expertise:**  
 1.Large Scale Distributed Systems, Cloud Infrastructure, & Edge Computing    
-2.Functional Programming, Compiler Design, & High-Performance Machine Learning (ML) Runtime 
+2.Functional Programming, Compiler Design, & Machine Learning (ML) Runtimes    
 3.Intelligence Augmentation (IA) & Tools for Thought  
 4.Augmented Reality (AR) fo Cognitive Assistance  
 
