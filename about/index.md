@@ -11,7 +11,7 @@ title: About
 ![](/assets/twtr.png) [abhisharma_b](https://twitter.com/abhisharma_b)  
 ![](/assets/mail.png) [abhisharma.b@gmail.com](mailto:abhisharma.b@gmail.com)
 
-I was born in Northern India (close to the Himalayan range). Studied Computer Science and Machine Learning at [Carnegie Mellon University (CMU)](https://www.cmu.edu/), Pittsburgh. Always looking to understand more about wine, human intelligence, progress, and incentives.
+I was born in Northern India (close to the Himalayan range). Studied Computer Science and Machine Learning at [Carnegie Mellon University (CMU)](https://www.cmu.edu/), Pittsburgh. Always looking to understand more about wine, human intelligence, [progress](https://youtu.be/6ZiQQ6Lalm0), and incentives.
 
 **Interest Areas and Expertise:**  
 1.Large Scale Distributed Systems, Cloud Infrastructure, & Edge Computing    
