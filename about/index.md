@@ -7,7 +7,7 @@ title: About
 
 ![](/assets/loc.png) Bay Area  
 ![](/assets/work.png) Founding Engineer / Head of Analytics & Machine Learning at [FogHorn](https://www.foghorn.io/)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Technologist in Residence at [Unusual Ventures](https://unusual.vc/abhi-sharma)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Technologist in Residence at [Unusual Ventures](https://unusual.vc/abhi-sharma)  
 ![](/assets/twtr.png) [abhisharma_b](https://twitter.com/abhisharma_b)  
 ![](/assets/mail.png) [abhisharma.b@gmail.com](mailto:abhisharma.b@gmail.com)
 
