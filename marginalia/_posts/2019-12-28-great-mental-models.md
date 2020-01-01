@@ -32,4 +32,4 @@ The mental models covered in this book are:
 11.Causation v/s Correlation  
 12.Necessity & Sufficiency  
 
-Apparently, this is first of the series. Book #2 is going to come out in Feb, 2020 as per Shane.
+Apparently, this is first of the series. Book #2 is going to come out in Feb, 2020 as per Shane. If you like to discuss some of the ideas in this books feel free to [reach out](mailto:abhisharma.b@gmail.com) to me.
