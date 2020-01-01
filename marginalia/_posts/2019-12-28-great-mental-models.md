@@ -19,17 +19,17 @@ What I found most interesting personally is — when I look at my notes & highli
 Each chapter unpacks a mental model with description, advantages, gotchas, and a general guideline on when it could be applicable. The recursive theme of each chapter is to take a particular mental model e.g. first principles thinking and then use some real examples from either history or specific individual to describe it with examples. Although, some chapters are definitely much more well written than others. Also, based on your personal situations/experiences you might be able to relate to ideas better than others in terms of "Ok, how do you I apply this in my day to day life?". I would have liked, more examples or real case-studies on how someone used a mental model in multiple scenarios just to get a better imprint on my brain.
 
 The mental models covered in this book are:  
-1.Map is _not_ the Territory
-2.Circle of Competence 
-3.First Principles Thinking
-4.Thought Experiments 
-5.Second Order Thinking
-6.Probabilistic Thinking 
-7.Idea Inversion
-8.Occam's Razor
-9.Hanlon's Razor
-10.Falisifability
-11.Causation v/s Correlation
-12.Necessity & Sufficiency
+1.Map is _not_ the Territory  
+2.Circle of Competence   
+3.First Principles Thinking  
+4.Thought Experiments   
+5.Second Order Thinking  
+6.Probabilistic Thinking   
+7.Idea Inversion  
+8.Occam's Razor  
+9.Hanlon's Razor  
+10.Falisifability  
+11.Causation v/s Correlation  
+12.Necessity & Sufficiency  
 
 Apparently, this is first of the series. Book #2 is going to come out in Feb, 2020 as per Shane.
