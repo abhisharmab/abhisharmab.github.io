@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Great Mental Models, General Thinking Concepts by Shane Parrish & Rhiannon Beaubien"
+title: "The Great Mental Models by Shane Parrish & Rhiannon Beaubien"
 category: marginalia
 date: 2019-12-28
 abstract: Assortment of highly essential frameworks for thought & analysis
