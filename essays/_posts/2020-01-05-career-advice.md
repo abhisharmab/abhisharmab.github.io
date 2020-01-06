@@ -17,7 +17,7 @@ In the process, you still have to deal with life constraints like rent & food fo
 In my discovery journey, the following resources & thoughts were beneficial. I HIGHLY recommend the following reading material that will not only guide your thinking but give you a framework on figuring out what you want to do with your career. After reading each, you need to introspect yourself exceptionally honestly. Be brutally honest to yourself, otherwise, it won't work. **Note:** Some readings below are certainly biased towards people working in tech. 
 
 * [How to do what you love by Paul Graham](http://www.paulgraham.com/love.html)
-* [Marc Andressen's blog archive as an Ebook](http://www.paulgraham.com/love.html)
+* [Marc Andressen's blog archive as an Ebook](https://docs.google.com/forms/d/e/1FAIpQLSe0NE9D-l1ZZhbjVYDQrf7g1nHOPgqyOZwkZTNN72U-bfk_qw/viewform)
 * [General Advise by Patrick Collison](https://patrickcollison.com/advice)
 * [Anti-Fragility by Nassim Taleb](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680)
 * [Poor Charlie's Almanack](https://www.amazon.com/Poor-Charlies-Almanack-Charles-Expanded/dp/1578645018)
