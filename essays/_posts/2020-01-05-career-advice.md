@@ -23,5 +23,6 @@ I HIGHLY recommend the following material that will not only guide your thinking
 * [How to get rich, without getting lucky](https://twitter.com/naval/status/1002103360646823936) by Naval Ravikant
 * [How to be successful](https://blog.samaltman.com/how-to-be-successful) by Sam Altman
 * [How to have a bad career](https://www.youtube.com/watch?v=Rn1w4MRHIhc) by David Patterson
+* [Principles: Life & Work](https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021) by Ray Dalio
 
 Hopefully, this reading is as helpful for you as it was for me. Please feel free to [email me](mailto:abhisharma.b@gmail.com) with any other useful resources I might not have captured here that had a massive impact on you.
