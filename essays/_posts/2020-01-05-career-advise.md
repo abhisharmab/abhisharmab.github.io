@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Career Advise Resources"
+title: "Career Advice Resources"
 category: essay
 date: 2020-01-05
 abstract: Figuring out what you really love to do
