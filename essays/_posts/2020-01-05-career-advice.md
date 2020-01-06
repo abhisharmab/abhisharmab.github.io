@@ -14,14 +14,14 @@ Figuring out & then doing what you love is the only way to have a meaningful, sa
 
 I HIGHLY recommend the following material that will not only guide your thinking but give you a framework on figuring out what you want to do with your career. After reading each, you need to introspect yourself exceptionally honestly. Be brutally honest to yourself, otherwise, it won't work. **Note:** Some readings below are certainly biased towards people working in tech. 
 
-* [How to do what you love by Paul Graham](http://www.paulgraham.com/love.html)
-* [You and your research by Richard Hamming](https://www.youtube.com/watch?v=a1zDuOPkMSw)
+* [How to do what you love](http://www.paulgraham.com/love.html) by Paul Graham
+* [You and your research](https://www.youtube.com/watch?v=a1zDuOPkMSw) by Richard Hamming
 * [Marc Andressen's blog archive as an Ebook](https://docs.google.com/forms/d/e/1FAIpQLSe0NE9D-l1ZZhbjVYDQrf7g1nHOPgqyOZwkZTNN72U-bfk_qw/viewform)
-* [General Advise by Patrick Collison](https://patrickcollison.com/advice)
-* [Anti-Fragility by Nassim Taleb](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680)
+* [General Advise](https://patrickcollison.com/advice) by Patrick Collison
+* [Anti-Fragility](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680) by Nassim Taleb
 * [Poor Charlie's Almanack](https://www.amazon.com/Poor-Charlies-Almanack-Charles-Expanded/dp/1578645018)
-* [How to get rich, without getting lucky by Naval Ravikant](https://twitter.com/naval/status/1002103360646823936)
-* [How to be successful by Sam Altman](https://blog.samaltman.com/how-to-be-successful)
-* [How to have a bad career by David Patterson](https://www.youtube.com/watch?v=Rn1w4MRHIhc)
+* [How to get rich, without getting lucky](https://twitter.com/naval/status/1002103360646823936) by Naval Ravikant
+* [How to be successful](https://blog.samaltman.com/how-to-be-successful) by Sam Altman
+* [How to have a bad career](https://www.youtube.com/watch?v=Rn1w4MRHIhc) by David Patterson
 
 Hopefully, this reading is as helpful for you as it was for me. Please feel free to [email me](mailto:abhisharma.b@gmail.com) with any other useful resources I might not have captured here that had a massive impact on you.
