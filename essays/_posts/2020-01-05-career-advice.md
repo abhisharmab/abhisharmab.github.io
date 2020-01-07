@@ -17,7 +17,7 @@ I HIGHLY recommend the following material that will not only guide your thinking
 * [How to do what you love](http://www.paulgraham.com/love.html) by Paul Graham
 * [You and your research](https://www.youtube.com/watch?v=a1zDuOPkMSw) by Richard Hamming
 * [Marc Andressen's blog archive as an Ebook](https://docs.google.com/forms/d/e/1FAIpQLSe0NE9D-l1ZZhbjVYDQrf7g1nHOPgqyOZwkZTNN72U-bfk_qw/viewform)
-* [General Advise](https://patrickcollison.com/advice) by Patrick Collison
+* [Advise](https://patrickcollison.com/advice) by Patrick Collison
 * [Anti-Fragility](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680) by Nassim Taleb
 * [Poor Charlie's Almanack](https://www.amazon.com/Poor-Charlies-Almanack-Charles-Expanded/dp/1578645018)
 * [How to get rich, without getting lucky](https://twitter.com/naval/status/1002103360646823936) by Naval Ravikant
