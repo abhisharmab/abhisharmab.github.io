@@ -3,7 +3,7 @@ layout: post
 title: "Career Advice Resources"
 category: essay
 date: 2020-01-05
-abstract: How to strategically think about e
+abstract: How to systematically think about your career
 ---
 
 Possibly with the New Year, 02020, a lot of you are strategically thinking about your career. I always reflect on mine a fair bit. I happened to chat with a friend today who was in the same mindset. It occurred to me that some of the thinking, reading, & advise I was soaking in myself might be useful to other people or at-least some might resonate with those ideas. So I decided to write it down.
