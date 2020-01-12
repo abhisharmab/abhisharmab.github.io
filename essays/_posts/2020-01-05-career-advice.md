@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Career Advice Resources"
+title: "Best Career Advice Resources"
 category: essay
 date: 2020-01-05
 abstract: How to systematically think about your career
 ---
 
-Possibly with the New Year, 02020, a lot of you are strategically thinking about your career. I always reflect on mine a fair bit. I happened to chat with a friend today who was in the same mindset. It occurred to me that some of the thinking, reading, & advise I was soaking in myself might be useful to other people or at-least some might resonate with those ideas. So I decided to write it down.
+Possibly with the New Year, 02020, a lot of you are strategically thinking about your career. I always reflect on mine a fair bit. I happened to chat with a friend today who was in the same mindset. It occurred to me that some of the reading, & advise I was soaking in myself (scroll down to the bottom for the consolidated list) might be useful to other people or at-least some might resonate with those ideas. So I decided to write it down.
 
 I have firmly concluded, the only thing that matters when you are figuring out what to do with your career is figuring out -- WHAT YOU REALLY LOVE? It is a tough one (you have to think very hard about what you really really want.) & might even take years to find out depending on layers of junk/rust you have on yourself. The junk/rust on you is all the things that are blocking you from thinking or understanding yourself clearly. The rust is created based on your societal impact, upbringing constraints, default environmental perceptions, risk understanding, & lack of deeper self-understanding. Growing in a fairly poor-middle class family with a focus on survival, I had a bunch of this junk/rust on my mental models. Although on the positive side, you also tend to develop a lot of incredible potential to break through severe problems that a comfortable life probably wouldn't imbibe in you.
 
