@@ -26,4 +26,6 @@ The material I researched this talk can be found [here](https://drive.google.com
 * [Why Innovation Accelerated in Britain 1547-1851 -- Anton Howes](https://www.antonhowes.com/)
 
 * [Innovation and Scientific Progress -- Tyler Cowen & Ben Southwood](https://docs.google.com/document/d/1cEBsj18Y4NnVx5Qdu43cKEHMaVBODTTyfHBa8GIRSec/edit)
+
+* [Fast -- Patrick Collison](https://patrickcollison.com/fast) 
  
