@@ -20,7 +20,7 @@ Group of Ireland designers, engineers, biotech experts, etc. collaborating to bu
 * [HelpWithCovid](https://helpwithcovid.com/)  
 Consolidated list for volunteering help rather than a donation
 
-* [QBI_UCSF](https://twitter.com/QBI_UCSF)
+* [QBI_UCSF](https://twitter.com/QBI_UCSF)  
 The team finished mapping the coronavirus genome and identified existing drugs that could potentially protect against COVID-19. They aren’t officially open for donations yet, but I would bet my money here.  
 
 * [Restaurant Worker's Relief Fund](https://www.restaurantworkerscf.org/news/2020/3/15/restaurant-workers-community-foundation-announces-the-formation-of-restaurant-workers-covid19-crisis-relief-fund)  
