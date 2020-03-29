@@ -23,7 +23,7 @@ I was born in Northern India (close to the Himalayan range). Studied Computer Sc
 If you are a first-time technical founder — feeling ready to bootstrap, or raise a seed round, or need technology or VC advice, or just want to bounce off ideas; feel free to [reach out](mailto:abhi@unusual.vc).
 
 Other Channels:
-[GitHub](https://github.com/abhisharmab) | [LinkedIn](https://www.linkedin.com/in/abhishekbaburamsharma/)
+[GitHub](https://github.com/abhisharmab) | [LinkedIn](https://www.linkedin.com/in/abhisharmab/)
 
 
 
