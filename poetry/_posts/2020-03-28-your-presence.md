@@ -6,7 +6,7 @@ date: 2020-03-28
 abstract: Letter to my wife amidst Covid19
 ---
 
-Sometimes those eyes, sometimes those words, sometimes that hug, sometimes nothing but always everything, your presence.  
+Sometimes those eyes, sometimes those words, sometimes that hug, Sometimes nothing but always everything, your presence.  
 
 Funny, I want to be all in but also wish to be out. To observe the magic it spills, your presence.  
 
