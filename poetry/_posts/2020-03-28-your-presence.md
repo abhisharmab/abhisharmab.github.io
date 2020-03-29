@@ -20,5 +20,7 @@ Hope of the first light, morning dew. An incomplete "I" to a complete "We", your
 
 Sometimes those eyes, sometimes those words, sometimes that hug, sometimes nothing but forever everything, your presence.  
 
+Wonder if I would know I am alive. If not, your presence.  
+
 Love,  
 A
