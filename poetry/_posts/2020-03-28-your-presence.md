@@ -13,8 +13,6 @@ The magic of it all, your presence.
 
 Starts somewhere in my heart, and spreads through my veins. As loud as the victory song; as tranquil as the deep sea; fire & ice, your presence.  
 
-Wonder if I would know I am alive - if not, your presence.  
-
 Stepping into a toasty room from a cold afternoon, your presence.  
 Hope of the first light, morning dew. An incomplete "I" to a complete "We", your presence.  
 
