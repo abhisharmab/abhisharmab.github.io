@@ -21,3 +21,7 @@ An incomplete "I" to a complete "We", your presence.
 
 Sometimes those eyes, sometimes those words, sometimes that hug, sometimes nothing but always everything, your presence.  
 
+Love, 
+Abhi
+
+_A note to my wife, amidst the Covid19 craziness_
