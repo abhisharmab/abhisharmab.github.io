@@ -12,7 +12,7 @@ title: About
 ![](/assets/mail.png) [abhisharma.b at gmail dot com](mailto:abhisharma.b@gmail.com)
 
 I was born in Northern India (close to the Himalayan range).   
-Studied CS and Machine Learning at [Carnegie Mellon University (CMU)](https://www.cmu.edu/), Pittsburgh. Always interested to learn more about wine, techology, human intelligence, [progress](https://youtu.be/6ZiQQ6Lalm0), and incentives.
+Studied CS and Machine Learning at [Carnegie Mellon University (CMU)](https://www.cmu.edu/)Always interested to learn more about wine, techology, human intelligence, [progress](https://youtu.be/6ZiQQ6Lalm0), and incentives.
 
 **Technology Interests & Expertise:**  
 1.Distributed Systems, Cloud Infrastructure, & Edge Computing    
