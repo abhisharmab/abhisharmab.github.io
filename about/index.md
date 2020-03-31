@@ -21,7 +21,7 @@ Studied CS and Machine Learning at [Carnegie Mellon University (CMU)](https://ww
 4.Augmented Reality (AR) fo Cognitive Assistance  
 5.Interesections of Different Domains e.g., (law/policy + technology)  
 
-If you are a first-time technical founder — feeling ready to bootstrap, or raise a seed round, or need technology or VC advice, or just want to bounce off ideas; feel free to [reach out](mailto:abhi@unusual.vc).
+If you are a first-time founder — feeling ready to bootstrap, raise a seed round, need technology or VC advice, or just want to bounce off ideas; feel free to [reach out](mailto:abhi@unusual.vc).
 
 Other Channels:
 [GitHub](https://github.com/abhisharmab) | [LinkedIn](https://www.linkedin.com/in/abhisharmab/)
