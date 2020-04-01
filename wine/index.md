@@ -3,7 +3,7 @@ layout: default
 title: Wine
 ---
 
-I am obessed with wine, and current preparing for my Level 1 Sommelier certification as a hobby. Below are some of the best wines that I have actually tasted, categorized by varietal.
+I am obessed with wine, and currently preparing for my Level 1 Sommelier certification as a hobby. Below are some of the best wines that I have actually tasted, categorized by varietal.
 
 #### Pinot Noir (California)
 * [Marcassin -- Windsor](http://marcassinvineyards.com/)
