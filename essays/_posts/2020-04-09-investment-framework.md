@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Simple investment framework"
+title: "Simple Investment Framework"
 category: essay
 date: 2020-04-09
 abstract: General Investment Framework For the Common Man
