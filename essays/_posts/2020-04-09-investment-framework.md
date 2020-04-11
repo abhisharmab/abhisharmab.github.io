@@ -8,7 +8,9 @@ abstract: General Investment Framework For the Common Man
 
 **Working Capital**: _money in your checking account_  
 
-**Liquid Savings**: _high-interest savings account you can find_  
+**Liquid Savings**: _high-interest savings account you can find_
+
+**Emergency Fund**: _high-interest savings account or very low risk porfolio. I fold my emergency fund into the liquid savings because in emergency you need cash immediately_  
 
 **High Risk, High Reward [Medium Term]**: _stocks, mutual funds, diversifed portfolio_  (Actively maintain this but only keep it as high as once a month or once every quarter)  
 
