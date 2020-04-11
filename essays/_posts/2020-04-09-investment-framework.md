@@ -10,13 +10,13 @@ abstract: General Investment Framework For the Common Man
 
 **Liquid Savings**: _high-interest savings account you can find_  
 
-**High Risk, High Reward [Medium Term]**: _stocks, mutual funds, diversifed portfolio_  (Actively maintain this but could be as high as once a month or once every quarter)  
+**High Risk, High Reward [Medium Term]**: _stocks, mutual funds, diversifed portfolio_  (Actively maintain this but only keep it as high as once a month or once every quarter)  
 
-**Low Risk, Low Reward [Long Term]**: _index funds, ETFs, robo investments apps_ (Note: Only do this if you have access to excess capital after from you 401K or IRA)    
+**Low Risk, Low Reward [Long Term]**: _index funds, ETFs, robo investments apps_ (Note: Only do this if you have access to excess capital after your 401K or IRA)    
 
 **Low Risk, High Reward [Medium Term]**: _ESPP stock program of public company that’s doing well_  
 
-**Loonshots**: _very early stage startup equity, angle investments, business ventures_  
+**Loonshots**: _very early stage startup equity, angel investments, business ventures_  
 
 **Retirement**: _401K, IRAs_  
 
