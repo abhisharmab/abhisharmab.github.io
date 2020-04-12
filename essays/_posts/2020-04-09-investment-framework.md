@@ -6,7 +6,7 @@ date: 2020-04-09
 abstract: General Investment Framework For the Common Man
 ---
 
-If you are in debt: Stop reading, payback you **debt** and come back.  
+If you are in debt: Stop reading, payback your **debt** and come back.  
 
 **Working Capital**: _money in your checking account_  
 
