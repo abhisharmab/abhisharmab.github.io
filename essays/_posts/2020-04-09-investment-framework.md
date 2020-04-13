@@ -8,7 +8,7 @@ abstract: General Investment Framework For the Common Man
 
 If you are in debt: Stop reading, payback your **debt** and come back.  
 
-**Working Capital**: _money in your checking account_  
+**Working Capital**: _money in your checking account. keep this as low as possible_  
 
 **Liquid Savings**: _high-interest savings account you can find_
 
