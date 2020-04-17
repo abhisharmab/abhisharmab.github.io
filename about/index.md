@@ -8,7 +8,7 @@ title: About
 ![](/assets/loc.png) SF, Bay Area   
 ![](/assets/work.png) Co-Founder, and Co-CEO @ Stealth Startup  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Advisor: [Unusual Ventures](https://unusual.vc/)   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prev: Founding Member / Head of Analytics & ML: [FogHorn](https://www.foghorn.io/)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prev: Founding Team / Head of Analytics & ML: [FogHorn](https://www.foghorn.io/)   
 ![](/assets/twtr.png) [abhisharma_b](https://twitter.com/abhisharma_b)  
 ![](/assets/mail.png) [abhisharma.b at gmail dot com](mailto:abhisharma.b@gmail.com)
 
