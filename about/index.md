@@ -6,9 +6,9 @@ title: About
 ![](/assets/abhi_150.png)
 
 ![](/assets/loc.png) SF, Bay Area   
-![](/assets/work.png) Co-Founder, & Co-CEO @ [Relyance](https://relyance.io/)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Advisor @ [Unusual Ventures](https://unusual.vc/)   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prev: Founding Team / Head of Analytics & ML @ [FogHorn](https://www.foghorn.io/)   
+![](/assets/work.png) Co-Founder, & Co-CEO: [Relyance](https://relyance.io/)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Advisor: [Unusual Ventures](https://unusual.vc/)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prev: Founding Team / Head of Analytics & ML: [FogHorn](https://www.foghorn.io/)   
 ![](/assets/twtr.png) [abhisharma_b](https://twitter.com/abhisharma_b)  
 ![](/assets/mail.png) [abhisharma.b at gmail dot com](mailto:abhisharma.b@gmail.com)
 
