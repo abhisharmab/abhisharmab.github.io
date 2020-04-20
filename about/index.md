@@ -6,7 +6,7 @@ title: About
 ![](/assets/abhi_150.png)
 
 ![](/assets/loc.png) SF, Bay Area   
-![](/assets/work.png) Co-Founder & Co-CEO: Stealth Startup     
+![](/assets/work.png) Co-Founder & Co-CEO: Stealth Startup | Actively Hiring    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Advisor: [Unusual Ventures](https://unusual.vc/)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prev: Founding Team / Head of Analytics & ML: [FogHorn](https://www.foghorn.io/)   
 ![](/assets/twtr.png) [abhisharma_b](https://twitter.com/abhisharma_b)  
@@ -21,7 +21,7 @@ Channels:
 
 Technology Interest Areas/Expertise:  
 1.Large Scale Distributed Systems & Edge Computing  
-2.Functional Programming, Compiler Design, & High-Performance Machine Learning (ML) Runtime  
+2.FP, Compiler Design, & High-Performance Machine Learning (ML) Runtime  
 3.Intelligence Augmentation (IA) & Tools for Thought  
 4.Augmented Reality (AR) fo Cognitive Assistance  
 5.Technology at the Intersection of Domains  
