@@ -19,10 +19,10 @@ If you are a first-time founder — feeling ready to bootstrap, raise a seed rou
 Channels:
 [GitHub](https://github.com/abhisharmab) | [LinkedIn](https://www.linkedin.com/in/abhisharmab/)  
 
-Technology Interest Areas/Expertise:
-1.Large Scale Distributed Systems & Edge Computing
-2.Functional Programming, Compiler Design, & High-Performance Machine Learning (ML) Runtime
-3.Intelligence Augmentation (IA) & Tools for Thought
-4.Augmented Reality (AR) fo Cognitive Assistance
-5.Technology at the Intersection of Domains
-6.Study of [Human Progress](https://abhisharmab.github.io/progress/)
+Technology Interest Areas/Expertise:  
+1.Large Scale Distributed Systems & Edge Computing  
+2.Functional Programming, Compiler Design, & High-Performance Machine Learning (ML) Runtime  
+3.Intelligence Augmentation (IA) & Tools for Thought  
+4.Augmented Reality (AR) fo Cognitive Assistance  
+5.Technology at the Intersection of Domains  
+6.Study of [Human Progress](https://abhisharmab.github.io/progress/)  
