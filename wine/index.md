@@ -14,6 +14,7 @@ I am obessed with wine, and currently preparing for my Level 1 Sommelier certifi
 * [Willams Seylem -- Healdsburg](https://www.williamsselyem.com/)
 * [Aubert -- Calistoga](http://www.aubertwines.com/about-us/)
 * [TestaRossa -- Los Gatos](https://www.testarossa.com/)
+* [Raen - Sonoma Coast](https://www.raenwinery.com)
 
 #### Cabernet Sauvignon (California)
 * [Del Dotto -- St. Helena](https://www.deldottovineyards.com/)
