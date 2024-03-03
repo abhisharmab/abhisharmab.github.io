@@ -20,9 +20,9 @@ Channels:
 [GitHub](https://github.com/abhisharmab) | [LinkedIn](https://www.linkedin.com/in/abhisharmab/)  
 
 Technology Interest Areas/Expertise:  
-1. Large Scale Distributed Systems & Edge Computing  
-2. FP, Compiler Design, & High-Performance Machine Learning (ML) Runtime  
-3. Intelligence Augmentation (IA) & Tools for Thought  
-4. Augmented Reality (AR) fo Cognitive Assistance  
-5. Technology at the Intersection of Domains  
-6. Study of [Human Progress](https://abhisharmab.github.io/progress/)  
+1.Large Scale Distributed Systems & Edge Computing  
+2.FP, Compiler Design, & High-Performance Artificial Intelligence (AI) Runtime  
+3.Intelligence Augmentation (IA) & Tools for Thought  
+4.Augmented Reality (AR) for Cognitive Assistance  
+5.Technology at the Intersection of Domains  
+6.Study of [Human Progress](https://abhisharmab.github.io/progress/)  
