@@ -12,7 +12,7 @@ title: About
 ![](/assets/twtr.png) [abhisharma_b](https://twitter.com/abhisharma_b)  
 ![](/assets/mail.png) [abhisharma.b at gmail dot com](mailto:abhisharma.b@gmail.com)
 
-I was born in Northern India (close to the Himalayan range) and studied CS and Machine Learning at [Carnegie Mellon University (CMU)](https://www.cmu.edu/). Always open to chatting more about [wine](https://abhisharmab.github.io/wine/), startups, intelligence augmentation, longevity, [human progress](https://youtu.be/6ZiQQ6Lalm0), and incentives.  
+I was born in Northern India (close to the Himalayan range) and studied CS and Machine Learning at [Carnegie Mellon University (CMU)](https://www.cmu.edu/). Always open to chatting more about [wine](https://abhisharmab.github.io/wine/), startups, intelligence augmentation with AI, longevity, [human progress](https://youtu.be/6ZiQQ6Lalm0), and incentives.  
 
 If you are a first-time founder, ready to bootstrap, raise a seed round, need technology or VC advice, or just want to bounce off ideas, feel free to [reach out](mailto:abhisharma.b@gmail.com).
 
