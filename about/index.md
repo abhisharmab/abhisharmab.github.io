@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-![](/assets/abhi_150.png)
+![](/assets/abhi_151.png)
 
 ![](/assets/loc.png) Bay Area   
 ![](/assets/work.png) CEO & Co-Founder: [Relyance.AI](https://relyance.ai/careers)  
