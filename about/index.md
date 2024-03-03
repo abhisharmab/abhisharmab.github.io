@@ -6,7 +6,7 @@ title: About
 ![](/assets/abhi_150.png)
 
 ![](/assets/loc.png) Bay Area   
-![](/assets/work.png) Co-Founder & CEO: [Relyance.AI](https://relyance.ai/careers)  
+![](/assets/work.png) CEO & Co-Founder: [Relyance.AI](https://relyance.ai/careers)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Advisor: [Unusual Ventures](https://unusual.vc/)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prev: Founding Member / Head of Analytics & ML: [FogHorn Systems](https://www.foghorn.io/)   
 ![](/assets/twtr.png) [abhisharma_b](https://twitter.com/abhisharma_b)  
