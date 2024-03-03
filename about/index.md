@@ -19,7 +19,7 @@ If you are a first-time founder, ready to bootstrap, raise a seed round, need te
 Channels:
 [GitHub](https://github.com/abhisharmab) | [LinkedIn](https://www.linkedin.com/in/abhisharmab/)  
 
-Areas of Tech Interests and Expertise:
+Areas of Tech Interests and Expertise:  
 1.Large Scale Distributed Systems & Edge Computing  
 2.FP, Compiler Design, & High-Performance Artificial Intelligence (AI) Runtime  
 3.Intelligence Augmentation (IA) & Tools for Thought  
